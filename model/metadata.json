@@ -1,1 +1,1 @@
-{"tfjsVersion":"1.7.4","tmVersion":"2.4.19","packageVersion":"0.8.4-alpha2","packageName":"@teachablemachine/image","timeStamp":"2026-11-12T06:36:41.092Z","userMetadata":{},"modelName":"tm-my-image-model","labels":["가위","바위","보"],"imageSize":224}
+{"tfjsVersion":"1.7.4","tmVersion":"2.4.19","packageVersion":"0.8.4-alpha2","packageName":"@teachablemachine/image","timeStamp":"2026-11-12T07:13:46.554Z","userMetadata":{},"modelName":"tm-my-image-model","labels":["가위","바위","보"],"imageSize":224}
